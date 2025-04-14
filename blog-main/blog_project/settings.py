@@ -18,7 +18,7 @@ SECRET_KEY = '^2812)w7w=p57a0zu-bl_230gs*60tpbkaokv)efl8o*-zq%s#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://blog-new-ny2u.onrender.com]
 
 
 # Application definition
